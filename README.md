@@ -6,13 +6,13 @@ Rabu 20 Agustus 2025
 
 # Konfigurasi PTP di Router 1
   1. Pergi ke **Wireless > Security Profiles**, lalu add, untuk membuat keamanan.
-  ![](IMAGES/)  
+  ![](IMAGES/ptp1.png)  
   2. Jika sudah, sekarang kita beralih tab ke Interface lalu pilih interface wlannya. **wireless > interface > wlan1**. Ubah modenya menjadi **ap bridge**, SSID nya isi jika ingin custom, dan ganti security profiles menjadi ke security profiles yang kita telah buat sebelumnya.  
-  ![](IMAGES/)  
+  ![](IMAGES/ptp2.png)  
   3. Setelah itu klik apply dan OK, dan pastikan interface wlan1 tidak disable dan sudah running (R).
-  ![](IMAGES/)  
+  ![](IMAGES/ptp3.png)  
   4. Sekarang tambahkan IP Address untuk interface wlan1 di **IP > Address > add**.
-  ![](IMAGES/)
+  ![](IMAGES/ptp4.png)
   5. Sampai sini kita sudah selesai mengkonfigurasi router satu menjadi AP.
 
 # Konfigurasi PTP di Router 2
