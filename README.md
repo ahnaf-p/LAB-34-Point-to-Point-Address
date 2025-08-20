@@ -17,5 +17,12 @@ Rabu 20 Agustus 2025
 
 # Konfigurasi PTP di Router 2
 
+# Pengujian
+  1. Ping dari router 1 ke router 2 dan sebaliknya.  
+     **Router 1:**  
+     ![](IMAGES/ping.png)  
+     **Router 2:**  
+     ![](IMAGES/)
+       
 # Kesimpulan
   Selain mengunakan kabel/wired, router juga bisa saling terhubung tanpa kabel/wireless. Router bisa dijadikan AP dan station (client).  
